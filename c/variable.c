@@ -18,3 +18,16 @@ int main(){
     fun();
     return 0;
 }
+
+
+/*Auto: 41
+Global:11
+ Local:21
+ Static:31
+Global:12
+ Local:21
+ Static:32
+Global:13
+ Local:21
+ Static:33
+ */
